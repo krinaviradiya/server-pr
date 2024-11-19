@@ -1,0 +1,40 @@
+1. what is node.js?
+
+-> node js is a cross platform , opensource javascript runtime environment, it's built in chrom's v8 javascript engine.
+ founder - ryan dahl.
+
+2. what is server?
+
+->server is a system that provides data and services to clients.
+
+3. what is cross plateform?
+
+-> cross plateform is a software that run on multiple operating system like macios,linux etc...
+
+4. what is server side scripting?
+
+-> server side scripting is a scripting language that runs on server. 
+
+5. what is REPL?
+
+-> REPL stands for Read,Eval,Print,Loop.
+Read - read the value.
+
+Eval - evaluate that value and perform arithematic operation.
+
+Print - print ans of the evaluate.
+
+Loop - repets the commands until user exit.
+
+6. what is module?
+
+-> module is a package that we can export and inport.
+
+we have 3 types of module 1. core module 2. local module 3. third-party module
+
+ core modules --- built into node.js and installation not require.
+ local modules --- these are user defined modules created within the node.js.
+ third party modules --- use require to import. third-party modules available online via npm.
+
+
+
